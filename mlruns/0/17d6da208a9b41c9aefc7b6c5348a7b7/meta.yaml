@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arunpoy/Documents/DL/MLFLOW-TEST/mlruns/0/17d6da208a9b41c9aefc7b6c5348a7b7/artifacts
+end_time: 1704625733186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d6da208a9b41c9aefc7b6c5348a7b7
+run_name: adaptable-snipe-12
+run_uuid: 17d6da208a9b41c9aefc7b6c5348a7b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704625731995
+status: 3
+tags: []
+user_id: blitzgrieg

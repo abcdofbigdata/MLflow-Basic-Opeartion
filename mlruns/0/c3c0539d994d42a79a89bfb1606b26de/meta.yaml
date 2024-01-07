@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arunpoy/Documents/DL/MLFLOW-TEST/mlruns/0/c3c0539d994d42a79a89bfb1606b26de/artifacts
+end_time: 1704625467710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3c0539d994d42a79a89bfb1606b26de
+run_name: debonair-sow-998
+run_uuid: c3c0539d994d42a79a89bfb1606b26de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704625466560
+status: 3
+tags: []
+user_id: blitzgrieg
